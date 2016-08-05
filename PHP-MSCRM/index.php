@@ -4,9 +4,9 @@ include 'CrmLibrary/CrmAuth.php';
 
 
 // CRM Online
-$url = "https://jibe.crm.dynamics.com/";
-$username = "Kstarta@cynergies.net";
-$password = "Rosebud22";
+$url = "https://yourorg.crm.dynamics.com/";
+$username = "email@domain.net";
+$password = "Password";
 
 $dynamicsCrmHeader = new DynamicsCrmHeader ();
 $authHeader = $dynamicsCrmHeader->GetHeaderOnline ( $username, $password, $url );
