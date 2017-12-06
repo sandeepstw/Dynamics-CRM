@@ -1,4 +1,4 @@
-# PHP script to call dynamics crm API
+# PHP script to call dynamics crm api
 Code sample related to Microsoft Dynamics CRM
 
 This php script can be used to make connection to microsoft dynamics online or on premise and fetch data using crm soap services. 
